@@ -1,6 +1,6 @@
 <html>
 <head><title>First JSP</title></head>
-<body>
+<bodfffffffffffffy>
   <%
     double num = Math.random();
     if (num > 0.95) {
