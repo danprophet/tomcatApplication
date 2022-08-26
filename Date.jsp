@@ -7,7 +7,7 @@
   %>
       <h2>You'll have a luck day!</h2><p>(<%= num %>)</p>
   <%
-    } elfse {
+    } else {
   %>
       <h2>Well, life goes on ... </h2><p>(<%= num %>)</p>
   <%
