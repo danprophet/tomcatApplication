@@ -1,13 +1,13 @@
 <html>
 <head><title>First JSP</title></head>
-<bodfffffffffffffy>
+<body>
   <%
     double num = Math.random();
     if (num > 0.95) {
   %>
       <h2>You'll have a luck day!</h2><p>(<%= num %>)</p>
   <%
-    } else {
+    } elfse {
   %>
       <h2>Well, life goes on ... </h2><p>(<%= num %>)</p>
   <%
